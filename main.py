@@ -1,5 +1,5 @@
 import os
-import keep_alive import flask
+import keep_alive import Flask
 import discord, asyncio, random, os, requests, sys, threading, datetime, json, aiohttp
 from urllib import parse
 import re, time
