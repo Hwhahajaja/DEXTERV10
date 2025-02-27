@@ -1,0 +1,8 @@
+discord
+flask
+colorama
+colored
+pypresence
+requests
+discord.py==2.3.2
+aiohttp
